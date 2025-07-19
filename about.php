@@ -12,7 +12,7 @@ session_start();
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css" integrity="sha512-9xKTRVabjVeZmc+GUW8GgSmcREDunMM+Dt/GrzchfN8tkwHizc5RP4Ok/MXFFy5rIjJjzhndFScTceq5e6GvVQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="icon" type="img" href="/err/pictures/Logo_favicon@300x.png">
+    <link rel="icon" type="img" href="/Logo_favicon@300x.png">
     <link rel="stylesheet" href="/err/style_home_page.css">
     <link rel="stylesheet" href="/err/style_about.css">
     <title>About Us</title>
@@ -20,7 +20,7 @@ session_start();
 <body>
     <header>
         <div id="header">
-        <img id="logo" src="/err/pictures/logo@300x.png" height="60rem">
+        <img id="logo" src="/logo@300x.png" height="60rem">
         <div id="header_options">
             <a href="/err/index.php">Home</a>
             <?php
@@ -77,8 +77,8 @@ session_start();
         </div>
     
     <!-- Background Images -->
-            <img id="plus_signs" src="/err/pictures/+_hp@300x.png" height="400rem">
-            <img id="about_people" src="/err/pictures/about_people_left@300x.png" height="530rem">
+            <img id="plus_signs" src="/+_hp@300x.png" height="400rem">
+            <img id="about_people" src="/about_people_left@300x.png" height="530rem">
 
 
     </main>
@@ -87,7 +87,7 @@ session_start();
         <div class="foot_block">
             <div class="foot_content">
                 <div class="content_left">
-                    <img src="/err/pictures/logo@300x.png" height="50rem">
+                    <img src="/logo@300x.png" height="50rem">
                     <i class="fa-solid fa-copyright" id="c_icon"></i><span style="font-size: 0.8rem;">all rights reserved</span>
                 </div>
                 <!-- <div class="content_center">
