@@ -29,7 +29,7 @@ else{
 <body>
     <header>
         <div id="header">
-        <img id="logo" src="/err/pictures/logo@300x.png" height="60rem">
+        <img id="logo" src="/logo@300x.png" height="60rem">
         <div id="header_options">
             <a href="/err/index.php">Home</a>
             <?php
