@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: poppins;
+}
+body{
+    background-color: aliceblue;
+}
+#plus_signs{
+    margin-left: 100px;
+    z-index: -1;
+    position: fixed;
+    top: 9rem;
+    animation: fadeinleft 1.5s ease-in-out 1;
+}
+p{
+    font-size: 14.4px;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#about_people{
+    position: fixed;
+    left: 43rem;
+    z-index: -1;
+    top: 5rem;
+    animation: fadeinright 2s ease-in-out 1;
+}
+#about_content{
+    width: 37rem;
+    margin-top: 20px;
+    margin-left: 4rem;
+    color: #2D266A;
+    animation: fadeinleft 2s ease-in-out 1;
+
+}
+.names{
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+#name2{
+    margin-top: 0px;
+}
